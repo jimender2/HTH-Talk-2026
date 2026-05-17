@@ -5,3 +5,10 @@ dist
 .vite-inspect
 .remote-assets
 components.d.ts
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
