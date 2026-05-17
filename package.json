@@ -5,12 +5,17 @@
   "scripts": {
     "build": "slidev build && rm -f dist/_redirects",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "dependencies": {
     "@slidev/cli": "^52.15.2",
     "@slidev/theme-default": "0.25.0",
     "@slidev/theme-seriph": "0.25.0",
     "vue": "^3.5.33"
+  },
+  "devDependencies": {
+    "wrangler": "^4.92.0"
   }
 }
