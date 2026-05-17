@@ -1,0 +1,19 @@
+#slide-content {
+  background: linear-gradient(to right, #0b0b13, #10182d);
+}
+
+.two-columns .col-right {
+  min-height: 0;
+  place-items: center;
+  display: flex;
+  align-items: center;      /* Centers vertically */
+  justify-content: center; /* Centers horizontally (optional) */
+  height: 100vh;           /* Parent needs a defined height */
+}
+
+.sparkle {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}

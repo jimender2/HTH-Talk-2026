@@ -1,0 +1,368 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.00 0.00 1016.00 276.00" preserveAspectRatio="xMidYMid meet" class="uAzD4a_graphDiagram" width="100%"><defs xmlns="http://www.w3.org/1999/xhtml"><defs><style type="text/css">@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');</style></defs></defs>
+<defs><pattern id="warning" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45 50 50)">
+        <line class="line0" stroke-width="6px" x1="3" x2="3" y2="12"/>
+        <line class="line1" stroke-width="6px" x1="9" x2="9" y2="12"/>
+        </pattern></defs><g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 271.96)">
+
+<!-- globby@16.2.0 -->
+<g id="node1" class="node" data-module="globby@16.2.0">
+<title>globby@16.2.0</title>
+<g id="a_node1"><a xlink:href="https://npmgraph.js.org/?q=globby%4016.2.0" xlink:title="globby@16.2.0">
+<path fill="none" stroke="black" d="M67.63,-110.96C67.63,-110.96 6.32,-110.96 6.32,-110.96 3.16,-110.96 0,-107.8 0,-104.64 0,-104.64 0,-98.32 0,-98.32 0,-95.16 3.16,-92 6.32,-92 6.32,-92 67.63,-92 67.63,-92 70.79,-92 73.95,-95.16 73.95,-98.32 73.95,-98.32 73.95,-104.64 73.95,-104.64 73.95,-107.8 70.79,-110.96 67.63,-110.96"/>
+<text xml:space="preserve" text-anchor="middle" x="36.97" y="-98.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">globby@16.2.0</text>
+</a>
+</g>
+</g>
+<!-- @sindresorhus/merge&#45;streams@4.0.0 -->
+<g id="node2" class="node" data-module="@sindresorhus/merge-streams@4.0.0">
+<title>@sindresorhus/merge-streams@4.0.0</title>
+<g id="a_node2"><a xlink:href="https://npmgraph.js.org/?q=%40sindresorhus%2Fmerge-streams%404.0.0" xlink:title="@sindresorhus/merge-streams@4.0.0">
+<path fill="none" stroke="black" d="M275.06,-203.96C275.06,-203.96 116.27,-203.96 116.27,-203.96 113.11,-203.96 109.95,-200.8 109.95,-197.64 109.95,-197.64 109.95,-191.32 109.95,-191.32 109.95,-188.16 113.11,-185 116.27,-185 116.27,-185 275.06,-185 275.06,-185 278.22,-185 281.38,-188.16 281.38,-191.32 281.38,-191.32 281.38,-197.64 281.38,-197.64 281.38,-200.8 278.22,-203.96 275.06,-203.96"/>
+<text xml:space="preserve" text-anchor="middle" x="195.66" y="-191.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">@sindresorhus/merge-streams@4.0.0</text>
+</a>
+</g>
+</g>
+<!-- globby@16.2.0&#45;&gt;@sindresorhus/merge&#45;streams@4.0.0 -->
+
+<!-- fast&#45;glob@3.3.3 -->
+<g id="node3" class="node" data-module="fast-glob@3.3.3">
+<title>fast-glob@3.3.3</title>
+<g id="a_node3"><a xlink:href="https://npmgraph.js.org/?q=fast-glob%403.3.3" xlink:title="fast-glob@3.3.3">
+<path fill="none" stroke="black" d="M227.84,-166.96C227.84,-166.96 163.49,-166.96 163.49,-166.96 160.33,-166.96 157.17,-163.8 157.17,-160.64 157.17,-160.64 157.17,-154.32 157.17,-154.32 157.17,-151.16 160.33,-148 163.49,-148 163.49,-148 227.84,-148 227.84,-148 231,-148 234.16,-151.16 234.16,-154.32 234.16,-154.32 234.16,-160.64 234.16,-160.64 234.16,-163.8 231,-166.96 227.84,-166.96"/>
+<text xml:space="preserve" text-anchor="middle" x="195.66" y="-154.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">fast-glob@3.3.3</text>
+</a>
+</g>
+</g>
+<!-- globby@16.2.0&#45;&gt;fast&#45;glob@3.3.3 -->
+
+<!-- ignore@7.0.5 -->
+<g id="node4" class="node" data-module="ignore@7.0.5">
+<title>ignore@7.0.5</title>
+<g id="a_node4"><a xlink:href="https://npmgraph.js.org/?q=ignore%407.0.5" xlink:title="ignore@7.0.5">
+<path fill="none" stroke="black" d="M222.34,-129.96C222.34,-129.96 168.99,-129.96 168.99,-129.96 165.83,-129.96 162.67,-126.8 162.67,-123.64 162.67,-123.64 162.67,-117.32 162.67,-117.32 162.67,-114.16 165.83,-111 168.99,-111 168.99,-111 222.34,-111 222.34,-111 225.5,-111 228.66,-114.16 228.66,-117.32 228.66,-117.32 228.66,-123.64 228.66,-123.64 228.66,-126.8 225.5,-129.96 222.34,-129.96"/>
+<text xml:space="preserve" text-anchor="middle" x="195.66" y="-117.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">ignore@7.0.5</text>
+</a>
+</g>
+</g>
+<!-- globby@16.2.0&#45;&gt;ignore@7.0.5 -->
+
+<!-- is&#45;path&#45;inside@4.0.0 -->
+<g id="node5" class="node" data-module="is-path-inside@4.0.0">
+<title>is-path-inside@4.0.0</title>
+<g id="a_node5"><a xlink:href="https://npmgraph.js.org/?q=is-path-inside%404.0.0" xlink:title="is-path-inside@4.0.0">
+<path fill="none" stroke="black" d="M238.23,-92.96C238.23,-92.96 153.1,-92.96 153.1,-92.96 149.94,-92.96 146.78,-89.8 146.78,-86.64 146.78,-86.64 146.78,-80.32 146.78,-80.32 146.78,-77.16 149.94,-74 153.1,-74 153.1,-74 238.23,-74 238.23,-74 241.39,-74 244.55,-77.16 244.55,-80.32 244.55,-80.32 244.55,-86.64 244.55,-86.64 244.55,-89.8 241.39,-92.96 238.23,-92.96"/>
+<text xml:space="preserve" text-anchor="middle" x="195.66" y="-80.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">is-path-inside@4.0.0</text>
+</a>
+</g>
+</g>
+<!-- globby@16.2.0&#45;&gt;is&#45;path&#45;inside@4.0.0 -->
+
+<!-- slash@5.1.0 -->
+<g id="node6" class="node" data-module="slash@5.1.0">
+<title>slash@5.1.0</title>
+<g id="a_node6"><a xlink:href="https://npmgraph.js.org/?q=slash%405.1.0" xlink:title="slash@5.1.0">
+<path fill="none" stroke="black" d="M219.29,-55.96C219.29,-55.96 172.04,-55.96 172.04,-55.96 168.88,-55.96 165.72,-52.8 165.72,-49.64 165.72,-49.64 165.72,-43.32 165.72,-43.32 165.72,-40.16 168.88,-37 172.04,-37 172.04,-37 219.29,-37 219.29,-37 222.45,-37 225.61,-40.16 225.61,-43.32 225.61,-43.32 225.61,-49.64 225.61,-49.64 225.61,-52.8 222.45,-55.96 219.29,-55.96"/>
+<text xml:space="preserve" text-anchor="middle" x="195.66" y="-43.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">slash@5.1.0</text>
+</a>
+</g>
+</g>
+<!-- globby@16.2.0&#45;&gt;slash@5.1.0 -->
+
+<!-- unicorn&#45;magic@0.4.0 -->
+<g id="node7" class="node" data-module="unicorn-magic@0.4.0">
+<title>unicorn-magic@0.4.0</title>
+<g id="a_node7"><a xlink:href="https://npmgraph.js.org/?q=unicorn-magic%400.4.0" xlink:title="unicorn-magic@0.4.0">
+<path fill="none" stroke="black" d="M240.36,-18.96C240.36,-18.96 150.97,-18.96 150.97,-18.96 147.81,-18.96 144.65,-15.8 144.65,-12.64 144.65,-12.64 144.65,-6.32 144.65,-6.32 144.65,-3.16 147.81,0 150.97,0 150.97,0 240.36,0 240.36,0 243.52,0 246.68,-3.16 246.68,-6.32 246.68,-6.32 246.68,-12.64 246.68,-12.64 246.68,-15.8 243.52,-18.96 240.36,-18.96"/>
+<text xml:space="preserve" text-anchor="middle" x="195.66" y="-6.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">unicorn-magic@0.4.0</text>
+</a>
+</g>
+</g>
+<!-- globby@16.2.0&#45;&gt;unicorn&#45;magic@0.4.0 -->
+
+<!-- @nodelib/fs.stat@2.0.5 -->
+<g id="node8" class="node" data-module="@nodelib/fs.stat@2.0.5">
+<title>@nodelib/fs.stat@2.0.5</title>
+<g id="a_node8"><a xlink:href="https://npmgraph.js.org/?q=%40nodelib%2Ffs.stat%402.0.5" xlink:title="@nodelib/fs.stat@2.0.5">
+<path fill="none" stroke="black" d="M735.77,-267.96C735.77,-267.96 638.37,-267.96 638.37,-267.96 635.21,-267.96 632.05,-264.8 632.05,-261.64 632.05,-261.64 632.05,-255.32 632.05,-255.32 632.05,-252.16 635.21,-249 638.37,-249 638.37,-249 735.77,-249 735.77,-249 738.93,-249 742.09,-252.16 742.09,-255.32 742.09,-255.32 742.09,-261.64 742.09,-261.64 742.09,-264.8 738.93,-267.96 735.77,-267.96"/>
+<text xml:space="preserve" text-anchor="middle" x="687.07" y="-255.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">@nodelib/fs.stat@2.0.5</text>
+</a>
+</g>
+</g>
+<!-- fast&#45;glob@3.3.3&#45;&gt;@nodelib/fs.stat@2.0.5 -->
+
+<!-- @nodelib/fs.walk@1.2.8 -->
+<g id="node9" class="node" data-module="@nodelib/fs.walk@1.2.8">
+<title>@nodelib/fs.walk@1.2.8</title>
+<g id="a_node9"><a xlink:href="https://npmgraph.js.org/?q=%40nodelib%2Ffs.walk%401.2.8" xlink:title="@nodelib/fs.walk@1.2.8">
+<path fill="none" stroke="black" d="M427.2,-203.96C427.2,-203.96 323.7,-203.96 323.7,-203.96 320.54,-203.96 317.38,-200.8 317.38,-197.64 317.38,-197.64 317.38,-191.32 317.38,-191.32 317.38,-188.16 320.54,-185 323.7,-185 323.7,-185 427.2,-185 427.2,-185 430.36,-185 433.52,-188.16 433.52,-191.32 433.52,-191.32 433.52,-197.64 433.52,-197.64 433.52,-200.8 430.36,-203.96 427.2,-203.96"/>
+<text xml:space="preserve" text-anchor="middle" x="375.45" y="-191.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">@nodelib/fs.walk@1.2.8</text>
+</a>
+</g>
+</g>
+<!-- fast&#45;glob@3.3.3&#45;&gt;@nodelib/fs.walk@1.2.8 -->
+
+<!-- glob&#45;parent@5.1.2 -->
+<g id="node10" class="node" data-module="glob-parent@5.1.2">
+<title>glob-parent@5.1.2</title>
+<g id="a_node10"><a xlink:href="https://npmgraph.js.org/?q=glob-parent%405.1.2" xlink:title="glob-parent@5.1.2">
+<path fill="none" stroke="black" d="M413.43,-166.96C413.43,-166.96 337.47,-166.96 337.47,-166.96 334.31,-166.96 331.15,-163.8 331.15,-160.64 331.15,-160.64 331.15,-154.32 331.15,-154.32 331.15,-151.16 334.31,-148 337.47,-148 337.47,-148 413.43,-148 413.43,-148 416.59,-148 419.75,-151.16 419.75,-154.32 419.75,-154.32 419.75,-160.64 419.75,-160.64 419.75,-163.8 416.59,-166.96 413.43,-166.96"/>
+<text xml:space="preserve" text-anchor="middle" x="375.45" y="-154.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">glob-parent@5.1.2</text>
+</a>
+</g>
+</g>
+<!-- fast&#45;glob@3.3.3&#45;&gt;glob&#45;parent@5.1.2 -->
+
+<!-- merge2@1.4.1 -->
+<g id="node11" class="node" data-module="merge2@1.4.1">
+<title>merge2@1.4.1</title>
+<g id="a_node11"><a xlink:href="https://npmgraph.js.org/?q=merge2%401.4.1" xlink:title="merge2@1.4.1">
+<path fill="none" stroke="black" d="M404.57,-129.96C404.57,-129.96 346.33,-129.96 346.33,-129.96 343.17,-129.96 340.01,-126.8 340.01,-123.64 340.01,-123.64 340.01,-117.32 340.01,-117.32 340.01,-114.16 343.17,-111 346.33,-111 346.33,-111 404.57,-111 404.57,-111 407.73,-111 410.89,-114.16 410.89,-117.32 410.89,-117.32 410.89,-123.64 410.89,-123.64 410.89,-126.8 407.73,-129.96 404.57,-129.96"/>
+<text xml:space="preserve" text-anchor="middle" x="375.45" y="-117.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">merge2@1.4.1</text>
+</a>
+</g>
+</g>
+<!-- fast&#45;glob@3.3.3&#45;&gt;merge2@1.4.1 -->
+
+<!-- micromatch@4.0.8 -->
+<g id="node12" class="node" data-module="micromatch@4.0.8">
+<title>micromatch@4.0.8</title>
+<g id="a_node12"><a xlink:href="https://npmgraph.js.org/?q=micromatch%404.0.8" xlink:title="micromatch@4.0.8">
+<path fill="none" stroke="black" d="M414.34,-92.96C414.34,-92.96 336.56,-92.96 336.56,-92.96 333.4,-92.96 330.24,-89.8 330.24,-86.64 330.24,-86.64 330.24,-80.32 330.24,-80.32 330.24,-77.16 333.4,-74 336.56,-74 336.56,-74 414.34,-74 414.34,-74 417.5,-74 420.66,-77.16 420.66,-80.32 420.66,-80.32 420.66,-86.64 420.66,-86.64 420.66,-89.8 417.5,-92.96 414.34,-92.96"/>
+<text xml:space="preserve" text-anchor="middle" x="375.45" y="-80.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">micromatch@4.0.8</text>
+</a>
+</g>
+</g>
+<!-- fast&#45;glob@3.3.3&#45;&gt;micromatch@4.0.8 -->
+
+<!-- @nodelib/fs.scandir@2.1.5 -->
+<g id="node13" class="node" data-module="@nodelib/fs.scandir@2.1.5">
+<title>@nodelib/fs.scandir@2.1.5</title>
+<g id="a_node13"><a xlink:href="https://npmgraph.js.org/?q=%40nodelib%2Ffs.scandir%402.1.5" xlink:title="@nodelib/fs.scandir@2.1.5">
+<path fill="none" stroke="black" d="M589.73,-230.96C589.73,-230.96 475.84,-230.96 475.84,-230.96 472.68,-230.96 469.52,-227.8 469.52,-224.64 469.52,-224.64 469.52,-218.32 469.52,-218.32 469.52,-215.16 472.68,-212 475.84,-212 475.84,-212 589.73,-212 589.73,-212 592.89,-212 596.05,-215.16 596.05,-218.32 596.05,-218.32 596.05,-224.64 596.05,-224.64 596.05,-227.8 592.89,-230.96 589.73,-230.96"/>
+<text xml:space="preserve" text-anchor="middle" x="532.79" y="-218.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">@nodelib/fs.scandir@2.1.5</text>
+</a>
+</g>
+</g>
+<!-- @nodelib/fs.walk@1.2.8&#45;&gt;@nodelib/fs.scandir@2.1.5 -->
+
+<!-- fastq@1.20.1 -->
+<g id="node15" class="node" data-module="fastq@1.20.1">
+<title>fastq@1.20.1</title>
+<g id="a_node15"><a xlink:href="https://npmgraph.js.org/?q=fastq%401.20.1" xlink:title="fastq@1.20.1">
+<path fill="none" stroke="black" d="M558.85,-193.96C558.85,-193.96 506.72,-193.96 506.72,-193.96 503.56,-193.96 500.4,-190.8 500.4,-187.64 500.4,-187.64 500.4,-181.32 500.4,-181.32 500.4,-178.16 503.56,-175 506.72,-175 506.72,-175 558.85,-175 558.85,-175 562.01,-175 565.17,-178.16 565.17,-181.32 565.17,-181.32 565.17,-187.64 565.17,-187.64 565.17,-190.8 562.01,-193.96 558.85,-193.96"/>
+<text xml:space="preserve" text-anchor="middle" x="532.79" y="-181.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">fastq@1.20.1</text>
+</a>
+</g>
+</g>
+<!-- @nodelib/fs.walk@1.2.8&#45;&gt;fastq@1.20.1 -->
+
+<!-- is&#45;glob@4.0.3 -->
+<g id="node16" class="node" data-module="is-glob@4.0.3">
+<title>is-glob@4.0.3</title>
+<g id="a_node16"><a xlink:href="https://npmgraph.js.org/?q=is-glob%404.0.3" xlink:title="is-glob@4.0.3">
+<path fill="none" stroke="black" d="M560.69,-156.96C560.69,-156.96 504.89,-156.96 504.89,-156.96 501.73,-156.96 498.57,-153.8 498.57,-150.64 498.57,-150.64 498.57,-144.32 498.57,-144.32 498.57,-141.16 501.73,-138 504.89,-138 504.89,-138 560.69,-138 560.69,-138 563.85,-138 567.01,-141.16 567.01,-144.32 567.01,-144.32 567.01,-150.64 567.01,-150.64 567.01,-153.8 563.85,-156.96 560.69,-156.96"/>
+<text xml:space="preserve" text-anchor="middle" x="532.79" y="-144.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">is-glob@4.0.3</text>
+</a>
+</g>
+</g>
+<!-- glob&#45;parent@5.1.2&#45;&gt;is&#45;glob@4.0.3 -->
+
+<!-- braces@3.0.3 -->
+<g id="node14" class="node" data-module="braces@3.0.3">
+<title>braces@3.0.3</title>
+<g id="a_node14"><a xlink:href="https://npmgraph.js.org/?q=braces%403.0.3" xlink:title="braces@3.0.3">
+<path fill="none" stroke="black" d="M559.46,-101.96C559.46,-101.96 506.12,-101.96 506.12,-101.96 502.96,-101.96 499.8,-98.8 499.8,-95.64 499.8,-95.64 499.8,-89.32 499.8,-89.32 499.8,-86.16 502.96,-83 506.12,-83 506.12,-83 559.46,-83 559.46,-83 562.62,-83 565.78,-86.16 565.78,-89.32 565.78,-89.32 565.78,-95.64 565.78,-95.64 565.78,-98.8 562.62,-101.96 559.46,-101.96"/>
+<text xml:space="preserve" text-anchor="middle" x="532.79" y="-89.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">braces@3.0.3</text>
+</a>
+</g>
+</g>
+<!-- micromatch@4.0.8&#45;&gt;braces@3.0.3 -->
+
+<!-- picomatch@2.3.2 -->
+<g id="node17" class="node" data-module="picomatch@2.3.2">
+<title>picomatch@2.3.2</title>
+<g id="a_node17"><a xlink:href="https://npmgraph.js.org/?q=picomatch%402.3.2" xlink:title="picomatch@2.3.2">
+<path fill="none" stroke="black" d="M568.32,-64.96C568.32,-64.96 497.26,-64.96 497.26,-64.96 494.1,-64.96 490.94,-61.8 490.94,-58.64 490.94,-58.64 490.94,-52.32 490.94,-52.32 490.94,-49.16 494.1,-46 497.26,-46 497.26,-46 568.32,-46 568.32,-46 571.48,-46 574.64,-49.16 574.64,-52.32 574.64,-52.32 574.64,-58.64 574.64,-58.64 574.64,-61.8 571.48,-64.96 568.32,-64.96"/>
+<text xml:space="preserve" text-anchor="middle" x="532.79" y="-52.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">picomatch@2.3.2</text>
+</a>
+</g>
+</g>
+<!-- micromatch@4.0.8&#45;&gt;picomatch@2.3.2 -->
+
+<!-- @nodelib/fs.scandir@2.1.5&#45;&gt;@nodelib/fs.stat@2.0.5 -->
+
+<!-- run&#45;parallel@1.2.0 -->
+<g id="node21" class="node" data-module="run-parallel@1.2.0">
+<title>run-parallel@1.2.0</title>
+<g id="a_node21"><a xlink:href="https://npmgraph.js.org/?q=run-parallel%401.2.0" xlink:title="run-parallel@1.2.0">
+<path fill="none" stroke="black" d="M725.35,-230.96C725.35,-230.96 648.8,-230.96 648.8,-230.96 645.64,-230.96 642.48,-227.8 642.48,-224.64 642.48,-224.64 642.48,-218.32 642.48,-218.32 642.48,-215.16 645.64,-212 648.8,-212 648.8,-212 725.35,-212 725.35,-212 728.51,-212 731.67,-215.16 731.67,-218.32 731.67,-218.32 731.67,-224.64 731.67,-224.64 731.67,-227.8 728.51,-230.96 725.35,-230.96"/>
+<text xml:space="preserve" text-anchor="middle" x="687.07" y="-218.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">run-parallel@1.2.0</text>
+</a>
+</g>
+</g>
+<!-- @nodelib/fs.scandir@2.1.5&#45;&gt;run&#45;parallel@1.2.0 -->
+
+<!-- fill&#45;range@7.1.1 -->
+<g id="node18" class="node" data-module="fill-range@7.1.1">
+<title>fill-range@7.1.1</title>
+<g id="a_node18"><a xlink:href="https://npmgraph.js.org/?q=fill-range%407.1.1" xlink:title="fill-range@7.1.1">
+<path fill="none" stroke="black" d="M720.16,-101.96C720.16,-101.96 653.99,-101.96 653.99,-101.96 650.83,-101.96 647.67,-98.8 647.67,-95.64 647.67,-95.64 647.67,-89.32 647.67,-89.32 647.67,-86.16 650.83,-83 653.99,-83 653.99,-83 720.16,-83 720.16,-83 723.32,-83 726.48,-86.16 726.48,-89.32 726.48,-89.32 726.48,-95.64 726.48,-95.64 726.48,-98.8 723.32,-101.96 720.16,-101.96"/>
+<text xml:space="preserve" text-anchor="middle" x="687.07" y="-89.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">fill-range@7.1.1</text>
+</a>
+</g>
+</g>
+<!-- braces@3.0.3&#45;&gt;fill&#45;range@7.1.1 -->
+
+<!-- reusify@1.1.0 -->
+<g id="node20" class="node" data-module="reusify@1.1.0">
+<title>reusify@1.1.0</title>
+<g id="a_node20"><a xlink:href="https://npmgraph.js.org/?q=reusify%401.1.0" xlink:title="reusify@1.1.0">
+<path fill="none" stroke="black" d="M714.97,-193.96C714.97,-193.96 659.18,-193.96 659.18,-193.96 656.02,-193.96 652.86,-190.8 652.86,-187.64 652.86,-187.64 652.86,-181.32 652.86,-181.32 652.86,-178.16 656.02,-175 659.18,-175 659.18,-175 714.97,-175 714.97,-175 718.13,-175 721.29,-178.16 721.29,-181.32 721.29,-181.32 721.29,-187.64 721.29,-187.64 721.29,-190.8 718.13,-193.96 714.97,-193.96"/>
+<text xml:space="preserve" text-anchor="middle" x="687.07" y="-181.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">reusify@1.1.0</text>
+</a>
+</g>
+</g>
+<!-- fastq@1.20.1&#45;&gt;reusify@1.1.0 -->
+
+<!-- is&#45;extglob@2.1.1 -->
+<g id="node19" class="node" data-module="is-extglob@2.1.1">
+<title>is-extglob@2.1.1</title>
+<g id="a_node19"><a xlink:href="https://npmgraph.js.org/?q=is-extglob%402.1.1" xlink:title="is-extglob@2.1.1">
+<path fill="none" stroke="black" d="M721.7,-156.96C721.7,-156.96 652.45,-156.96 652.45,-156.96 649.29,-156.96 646.13,-153.8 646.13,-150.64 646.13,-150.64 646.13,-144.32 646.13,-144.32 646.13,-141.16 649.29,-138 652.45,-138 652.45,-138 721.7,-138 721.7,-138 724.86,-138 728.02,-141.16 728.02,-144.32 728.02,-144.32 728.02,-150.64 728.02,-150.64 728.02,-153.8 724.86,-156.96 721.7,-156.96"/>
+<text xml:space="preserve" text-anchor="middle" x="687.07" y="-144.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">is-extglob@2.1.1</text>
+</a>
+</g>
+</g>
+<!-- is&#45;glob@4.0.3&#45;&gt;is&#45;extglob@2.1.1 -->
+
+<!-- to&#45;regex&#45;range@5.0.1 -->
+<g id="node23" class="node" data-module="to-regex-range@5.0.1">
+<title>to-regex-range@5.0.1</title>
+<g id="a_node23"><a xlink:href="https://npmgraph.js.org/?q=to-regex-range%405.0.1" xlink:title="to-regex-range@5.0.1">
+<path fill="none" stroke="black" d="M878.68,-101.96C878.68,-101.96 788.7,-101.96 788.7,-101.96 785.54,-101.96 782.38,-98.8 782.38,-95.64 782.38,-95.64 782.38,-89.32 782.38,-89.32 782.38,-86.16 785.54,-83 788.7,-83 788.7,-83 878.68,-83 878.68,-83 881.84,-83 885,-86.16 885,-89.32 885,-89.32 885,-95.64 885,-95.64 885,-98.8 881.84,-101.96 878.68,-101.96"/>
+<text xml:space="preserve" text-anchor="middle" x="833.69" y="-89.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">to-regex-range@5.0.1</text>
+</a>
+</g>
+</g>
+<!-- fill&#45;range@7.1.1&#45;&gt;to&#45;regex&#45;range@5.0.1 -->
+
+<!-- queue&#45;microtask@1.2.3 -->
+<g id="node22" class="node" data-module="queue-microtask@1.2.3">
+<title>queue-microtask@1.2.3</title>
+<g id="a_node22"><a xlink:href="https://npmgraph.js.org/?q=queue-microtask%401.2.3" xlink:title="queue-microtask@1.2.3">
+<path fill="none" stroke="black" d="M882.97,-230.96C882.97,-230.96 784.41,-230.96 784.41,-230.96 781.25,-230.96 778.09,-227.8 778.09,-224.64 778.09,-224.64 778.09,-218.32 778.09,-218.32 778.09,-215.16 781.25,-212 784.41,-212 784.41,-212 882.97,-212 882.97,-212 886.13,-212 889.29,-215.16 889.29,-218.32 889.29,-218.32 889.29,-224.64 889.29,-224.64 889.29,-227.8 886.13,-230.96 882.97,-230.96"/>
+<text xml:space="preserve" text-anchor="middle" x="833.69" y="-218.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">queue-microtask@1.2.3</text>
+</a>
+</g>
+</g>
+<!-- run&#45;parallel@1.2.0&#45;&gt;queue&#45;microtask@1.2.3 -->
+
+<!-- is&#45;number@7.0.0 -->
+<g id="node24" class="node" data-module="is-number@7.0.0">
+<title>is-number@7.0.0</title>
+<g id="a_node24"><a xlink:href="https://npmgraph.js.org/?q=is-number%407.0.0" xlink:title="is-number@7.0.0">
+<path fill="none" stroke="black" d="M1001.46,-101.96C1001.46,-101.96 931.61,-101.96 931.61,-101.96 928.45,-101.96 925.29,-98.8 925.29,-95.64 925.29,-95.64 925.29,-89.32 925.29,-89.32 925.29,-86.16 928.45,-83 931.61,-83 931.61,-83 1001.46,-83 1001.46,-83 1004.62,-83 1007.78,-86.16 1007.78,-89.32 1007.78,-89.32 1007.78,-95.64 1007.78,-95.64 1007.78,-98.8 1004.62,-101.96 1001.46,-101.96"/>
+<text xml:space="preserve" text-anchor="middle" x="966.53" y="-89.18" font-family="Roboto Condensed, sans-serif" font-size="11.00">is-number@7.0.0</text>
+</a>
+</g>
+</g>
+<!-- to&#45;regex&#45;range@5.0.1&#45;&gt;is&#45;number@7.0.0 -->
+
+<g id="edge2" class="edge">
+<title>globby@16.2.0-&gt;@sindresorhus/merge-streams@4.0.0</title>
+<path fill="none" stroke="black" d="M44.65,-111.4C56.04,-127.52 80.85,-159.21 109.95,-175.48 113.34,-177.38 116.91,-179.08 120.58,-180.62"/>
+<polygon fill="black" stroke="black" points="119.14,-183.82 129.74,-183.99 121.56,-177.25 119.14,-183.82"/>
+</g><g id="edge6" class="edge">
+<title>globby@16.2.0-&gt;fast-glob@3.3.3</title>
+<path fill="none" stroke="black" d="M54.3,-111.4C68.54,-119.68 90,-131.25 109.95,-138.48 121.33,-142.61 133.91,-146.01 145.82,-148.75"/>
+<polygon fill="black" stroke="black" points="144.97,-152.14 155.48,-150.84 146.45,-145.3 144.97,-152.14"/>
+</g><g id="edge3" class="edge">
+<title>globby@16.2.0-&gt;ignore@7.0.5</title>
+<path fill="none" stroke="black" d="M74.31,-105.89C97.16,-108.66 126.76,-112.25 150.89,-115.17"/>
+<polygon fill="black" stroke="black" points="150.39,-118.64 160.74,-116.37 151.23,-111.69 150.39,-118.64"/>
+</g><g id="edge4" class="edge">
+<title>globby@16.2.0-&gt;is-path-inside@4.0.0</title>
+<path fill="none" stroke="black" d="M74.31,-97.31C92.31,-95.24 114.5,-92.69 134.91,-90.34"/>
+<polygon fill="black" stroke="black" points="135.31,-93.82 144.84,-89.2 134.51,-86.87 135.31,-93.82"/>
+</g><g id="edge1" class="edge">
+<title>globby@16.2.0-&gt;slash@5.1.0</title>
+<path fill="none" stroke="black" d="M54.91,-91.53C69.17,-83.51 90.34,-72.47 109.95,-65.48 124.17,-60.41 140.25,-56.4 154.53,-53.39"/>
+<polygon fill="black" stroke="black" points="154.94,-56.88 164.06,-51.49 153.57,-50.02 154.94,-56.88"/>
+</g><g id="edge5" class="edge">
+<title>globby@16.2.0-&gt;unicorn-magic@0.4.0</title>
+<path fill="none" stroke="black" d="M44.68,-91.69C56.12,-75.8 81,-44.54 109.95,-28.48 117.28,-24.41 125.42,-21.22 133.68,-18.7"/>
+<polygon fill="black" stroke="black" points="134.34,-22.15 143.08,-16.17 132.52,-15.39 134.34,-22.15"/>
+</g><g id="edge7" class="edge">
+<title>fast-glob@3.3.3-&gt;@nodelib/fs.stat@2.0.5</title>
+<path fill="none" stroke="black" d="M234.57,-161.32C249.81,-164.02 267.12,-168.63 281.38,-176.48 301.2,-187.39 297.31,-202.02 317.38,-212.48 413.82,-262.75 543.14,-266.76 620.21,-263.63"/>
+<polygon fill="black" stroke="black" points="620.32,-267.13 630.14,-263.17 619.99,-260.14 620.32,-267.13"/>
+</g><g id="edge10" class="edge">
+<title>fast-glob@3.3.3-&gt;@nodelib/fs.walk@1.2.8</title>
+<path fill="none" stroke="black" d="M234.37,-165.33C257.91,-170.23 288.73,-176.64 315.46,-182.2"/>
+<polygon fill="black" stroke="black" points="314.65,-185.61 325.15,-184.22 316.07,-178.76 314.65,-185.61"/>
+</g><g id="edge9" class="edge">
+<title>fast-glob@3.3.3-&gt;glob-parent@5.1.2</title>
+<path fill="none" stroke="black" d="M234.37,-157.48C259.07,-157.48 291.78,-157.48 319.38,-157.48"/>
+<polygon fill="black" stroke="black" points="319.34,-160.98 329.34,-157.48 319.34,-153.98 319.34,-160.98"/>
+</g><g id="edge8" class="edge">
+<title>fast-glob@3.3.3-&gt;merge2@1.4.1</title>
+<path fill="none" stroke="black" d="M234.37,-149.63C261.81,-143.92 299.13,-136.15 328.35,-130.07"/>
+<polygon fill="black" stroke="black" points="328.96,-133.52 338.04,-128.06 327.53,-126.67 328.96,-133.52"/>
+</g><g id="edge11" class="edge">
+<title>fast-glob@3.3.3-&gt;micromatch@4.0.8</title>
+<path fill="none" stroke="black" d="M234.57,-153.64C249.81,-150.94 267.12,-146.33 281.38,-138.48 301.2,-127.57 298.13,-114.37 317.38,-102.48 320.13,-100.78 323.04,-99.22 326.05,-97.78"/>
+<polygon fill="black" stroke="black" points="327.25,-101.07 335.1,-93.95 324.53,-94.62 327.25,-101.07"/>
+</g><g id="edge13" class="edge">
+<title>@nodelib/fs.walk@1.2.8-&gt;@nodelib/fs.scandir@2.1.5</title>
+<path fill="none" stroke="black" d="M433.85,-204.46C443.52,-206.14 453.64,-207.9 463.56,-209.62"/>
+<polygon fill="black" stroke="black" points="462.68,-213.02 473.13,-211.28 463.88,-206.12 462.68,-213.02"/>
+</g><g id="edge12" class="edge">
+<title>@nodelib/fs.walk@1.2.8-&gt;fastq@1.20.1</title>
+<path fill="none" stroke="black" d="M433.85,-190.78C452.11,-189.61 471.97,-188.33 489.01,-187.23"/>
+<polygon fill="black" stroke="black" points="489.03,-190.74 498.79,-186.6 488.58,-183.75 489.03,-190.74"/>
+</g><g id="edge14" class="edge">
+<title>glob-parent@5.1.2-&gt;is-glob@4.0.3</title>
+<path fill="none" stroke="black" d="M420.13,-154.67C441.03,-153.32 466.02,-151.71 487.05,-150.36"/>
+<polygon fill="black" stroke="black" points="487.01,-153.87 496.77,-149.73 486.56,-146.88 487.01,-153.87"/>
+</g><g id="edge16" class="edge">
+<title>micromatch@4.0.8-&gt;braces@3.0.3</title>
+<path fill="none" stroke="black" d="M420.96,-86.06C442.05,-87.28 467.14,-88.73 488.12,-89.95"/>
+<polygon fill="black" stroke="black" points="487.91,-93.44 498.1,-90.53 488.32,-86.46 487.91,-93.44"/>
+</g><g id="edge15" class="edge">
+<title>micromatch@4.0.8-&gt;picomatch@2.3.2</title>
+<path fill="none" stroke="black" d="M420.96,-75.46C439.17,-72.18 460.36,-68.36 479.31,-64.94"/>
+<polygon fill="black" stroke="black" points="479.75,-68.42 488.97,-63.2 478.51,-61.53 479.75,-68.42"/>
+</g><g id="edge17" class="edge">
+<title>@nodelib/fs.scandir@2.1.5-&gt;@nodelib/fs.stat@2.0.5</title>
+<path fill="none" stroke="black" d="M574.6,-231.4C592.86,-235.83 614.61,-241.12 634.03,-245.84"/>
+<polygon fill="black" stroke="black" points="633.14,-249.22 643.68,-248.18 634.79,-242.42 633.14,-249.22"/>
+</g><g id="edge18" class="edge">
+<title>@nodelib/fs.scandir@2.1.5-&gt;run-parallel@1.2.0</title>
+<path fill="none" stroke="black" d="M596.17,-221.48C607.63,-221.48 619.52,-221.48 630.76,-221.48"/>
+<polygon fill="black" stroke="black" points="630.67,-224.98 640.67,-221.48 630.67,-217.98 630.67,-224.98"/>
+</g><g id="edge19" class="edge">
+<title>braces@3.0.3-&gt;fill-range@7.1.1</title>
+<path fill="none" stroke="black" d="M566.08,-92.48C586.4,-92.48 613.03,-92.48 636.04,-92.48"/>
+<polygon fill="black" stroke="black" points="635.84,-95.98 645.84,-92.48 635.84,-88.98 635.84,-95.98"/>
+</g><g id="edge20" class="edge">
+<title>fastq@1.20.1-&gt;reusify@1.1.0</title>
+<path fill="none" stroke="black" d="M565.34,-184.48C587.2,-184.48 616.64,-184.48 640.97,-184.48"/>
+<polygon fill="black" stroke="black" points="640.93,-187.98 650.93,-184.48 640.93,-180.98 640.93,-187.98"/>
+</g><g id="edge21" class="edge">
+<title>is-glob@4.0.3-&gt;is-extglob@2.1.1</title>
+<path fill="none" stroke="black" d="M567.21,-147.48C586.89,-147.48 612.21,-147.48 634.41,-147.48"/>
+<polygon fill="black" stroke="black" points="634.18,-150.98 644.18,-147.48 634.18,-143.98 634.18,-150.98"/>
+</g><g id="edge22" class="edge">
+<title>fill-range@7.1.1-&gt;to-regex-range@5.0.1</title>
+<path fill="none" stroke="black" d="M726.83,-92.48C740.36,-92.48 755.91,-92.48 770.85,-92.48"/>
+<polygon fill="black" stroke="black" points="770.6,-95.98 780.6,-92.48 770.6,-88.98 770.6,-95.98"/>
+</g><g id="edge23" class="edge">
+<title>run-parallel@1.2.0-&gt;queue-microtask@1.2.3</title>
+<path fill="none" stroke="black" d="M731.86,-221.48C742.82,-221.48 754.82,-221.48 766.6,-221.48"/>
+<polygon fill="black" stroke="black" points="766.28,-224.98 776.28,-221.48 766.28,-217.98 766.28,-224.98"/>
+</g><g id="edge24" class="edge">
+<title>to-regex-range@5.0.1-&gt;is-number@7.0.0</title>
+<path fill="none" stroke="black" d="M885.28,-92.48C894.48,-92.48 904.1,-92.48 913.34,-92.48"/>
+<polygon fill="black" stroke="black" points="913.29,-95.98 923.29,-92.48 913.29,-88.98 913.29,-95.98"/>
+</g></g>
+</svg>
